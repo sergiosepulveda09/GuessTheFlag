@@ -4,10 +4,10 @@ Simple game that ask the user to choose the correct flag, It was created using S
 
 # Table of Contents
 
-- <a href="https://github.com/sergiosepulveda09/WeSplit/tree/main#general-info" >General Info</a>
-- <a href="https://github.com/sergiosepulveda09/WeSplit/tree/main#technologies">Technologies</a>
-- <a href="https://github.com/sergiosepulveda09/WeSplit/tree/main#ilustrations">Ilustrations</a>
-- <a href="https://github.com/sergiosepulveda09/WeSplit/tree/main#inspirations">Inspiration</a>
+- <a href="https://github.com/sergiosepulveda09/GuessTheFlag/tree/main#general-info" >General Info</a>
+- <a href="https://github.com/sergiosepulveda09/GuessTheFlag/tree/main#technologies">Technologies</a>
+- <a href="https://github.com/sergiosepulveda09/GuessTheFlag/tree/main#ilustrations">Ilustrations</a>
+- <a href="https://github.com/sergiosepulveda09/GuessTheFlag/tree/main#inspirations">Inspiration</a>
 
 # General info
 
