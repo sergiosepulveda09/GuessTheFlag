@@ -1,6 +1,5 @@
 #  Guess the flag - Game App
 
-Simple game that ask the user to choose the correct flag, It was created using SwiftUI and following 100 Days HackingWithSwift challenge.
 
 # Table of Contents
 
@@ -11,6 +10,9 @@ Simple game that ask the user to choose the correct flag, It was created using S
 
 # General info
 
+Simple game that ask the user to choose the correct flag, It was created using SwiftUI and following 100 Days HackingWithSwift challenge.
+I have been adding more features like the animations and I will be adding a reset button to start the score count from 0 again!
+
 # Technologies
 SwiftUI/Swift
 # Ilustrations
@@ -20,3 +22,4 @@ https://user-images.githubusercontent.com/66451506/124241854-001f3f80-dad1-11eb-
 
 
 # Inspirations
+I am thankful for this opportunity Paul Hudson has given to us, This is an amazing learning source that is definitely worth a lot! He and his course has been my inspiration
